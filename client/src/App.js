@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import ReactDom from "react-dom";
+
 import MovieList from "./Movies/MovieList";
 import Movie from "./Movies/Movie";
 import {Route} from "react-router-dom";
